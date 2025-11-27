@@ -11,7 +11,7 @@ It extracts the `<svg>...</svg>` section, removes unnecessary whitespace, and sa
 
 ## Requirements
 
-### For the Python script (`.py `)
+### For the Python script (`.py`)
 - Python 3.x
 - Tkinter (included with standard Python installations)
 
