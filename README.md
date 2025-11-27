@@ -15,7 +15,7 @@ It extracts the `<svg>...</svg>` section, removes unnecessary whitespace, and sa
 - Python 3.x
 - Tkinter (included with standard Python installations)
 
-### For the executable (`.exe` / `.com`)
+### For the executable (`.exe`)
 - Runs directly on Windows with no additional requirements
 
 ## Usage
@@ -28,7 +28,7 @@ It extracts the `<svg>...</svg>` section, removes unnecessary whitespace, and sa
 This project is licensed under the GNU General Public License (GPL).
 
 ## Disclaimer
-When running the packaged executable (`.exe` or `.com`), Windows SmartScreen may display a warning.  
+When running the packaged executable (`.exe`), Windows SmartScreen may display a warning.  
 This is a common false positive for newly built applications that are unsigned and have not yet built reputation.  
 The software is safe to use, and the warning can be bypassed by choosing **"Run anyway"**.  
 If you prefer not to bypass the warning or do not fully trust the executable, you can run the Python script version directly instead.
