@@ -25,7 +25,7 @@ It extracts the `<svg>...</svg>` section, removes unnecessary whitespace, and sa
 4. The converted `.txt` file(s) will be saved in the chosen location.
 
 ## License
-This project is licensed under the GNU General Public License (GPL).
+This project is licensed under the MIT license.
 
 ## Disclaimer
 When running the packaged executable (`.exe`), Windows SmartScreen may display a warning.  
